@@ -2,10 +2,6 @@
 Mask R-CNN
 Configurations and data loading code for MS COCO.
 
-Copyright (c) 2017 Matterport, Inc.
-Licensed under the MIT License (see LICENSE for details)
-Written by Waleed Abdulla
-
 ------------------------------------------------------------
 
 Usage: import the module (see Jupyter notebooks for examples), or run from
